@@ -20,10 +20,12 @@
 
 ## 📋 Tech Stack
 
-| **Frontend** | Streamlit |
-| **Backend** | Python |
-| **AI** | Groq + Llama model |
-| **Processing** | PyPDF2 |
+| Category      | Technologies          |
+|---------------|-----------------------|
+| **Frontend**  | Streamlit            |
+| **Backend**   | Python               |
+| **AI**        | Groq + Llama model   |
+| **Processing**| PyPDF2               |
 
 
 ## 🎮 Quick Start

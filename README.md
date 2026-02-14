@@ -20,13 +20,11 @@
 
 ## 📋 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
 | **Frontend** | Streamlit |
 | **Backend** | Python |
-| **AI/NLP** | OpenAI GPT-4, PyPDF2 |
-| **Processing** | NLTK/spaCy for skill extraction |
-| **Deployment** | Docker, Railway |
+| **AI** | Groq + Llama model |
+| **Processing** | PyPDF2 |
+
 
 ## 🎮 Quick Start
 
